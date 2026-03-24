@@ -29,4 +29,8 @@ This project analyzes student scores using NumPy and provides useful statistics 
 This project demonstrates how to:
 - Use NumPy arrays
 - Perform statistical analysis
+<<<<<<< HEAD
 - Apply conditional logic in Python
+=======
+- Apply conditional logic in Python# student-grade-analyzer
+>>>>>>> c59f4b50bb0a7097a0c1ea1012a3bacffd50ea35
