@@ -33,4 +33,8 @@ This project demonstrates how to:
 - Apply conditional logic in Python
 =======
 - Apply conditional logic in Python# student-grade-analyzer
-AUTHOR:EDITH RASOA|Upcoming Data Scientist
+
+- 
+👩‍💻 Author
+Edith Rasoa
+Aspiring Data Scientist | Moringa School
